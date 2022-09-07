@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+ul li {
+  list-style-type: georgian;
+}
+
+.main-menu {
+  text-align: center;
+}
+
+.main-menu a {
+  margin-right: 10px;
+}
